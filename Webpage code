@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kunal's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+    <h1 style="text-align: center;">Kunal's Portfolio</h1>
+    <p style="text-align: center;">Home | Projects | Blog | Youtube</p>
+</header>
+<table border="1" width="100%">
+    <tr>
+        <td>
+            <h3>Portfolio Highlights</h3>
+            <ul>
+                <li>Responsive HTML Layout</li>
+                <li>E-commerce Storefront</li>
+                <li>Interactive Form Design</li>
+                <li>Event Countdown Widget</li>
+                <li>Prototype Landing Pages</li>
+            </ul>
+        </td>
+        <td>
+            <h3>Career Achievements</h3>
+            <ul>
+                <li>3 star problem solving in python on hackerrank.</li>
+                <li>Python internship at codsoft.</li>
+                <li>MS Office Certificated from Infosys Springboard</li>
+                <a href="www.linkedin.com/in/code-x-kunal">Visit my linkedin </a>
+            </ul>
+            <h3>Community Involvement</h3>
+            <ul>
+                Regularly contribute to open source web <br>
+                development projects.
+            </ul>
+            <a href="">Visit my Github</a>
+        </td>
+        <td>
+            <h3>Academic Qualification</h3>
+            <ul>
+                <li>9+ CGPA in B.tech from IT </li>
+                <li>Great Communication Skills</li>
+            </ul>
+            <h3>Skills</h3>
+            <ul>
+                <li>Python Programming</li>
+                <li>Web development</li>
+                <li>Java Programming</li>
+            </ul>
+        </td>
+    </tr>
+</table>    
+<h3>Hobbies</h3>
+<ul>
+    <li>Youtube videos about teaching codes and new technologies.</li>
+    <li>Reading books</li>
+    <li>Cooking</li>
+    <li>Casual Gaming</li>
+</ul>
+</table>
+</body>
+<footer style="text-align: center;">
+    &copy; All Rights Reserved by Kunal
+</footer>
+</html>
